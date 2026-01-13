@@ -10,6 +10,7 @@ Concepts :
 - State
 - Refs & Portals
 - useEffect Hook - handling Side Effects
+- Custom Hooks 
 - Context API & Reducers
 - Handling HTTP Requests
 - Handling Forms (Form Actions)
