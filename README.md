@@ -51,8 +51,6 @@ This app simulates a simple restaurant ordering flow:
 - Checkout collects customer details and submits the order
 - On success, the cart is cleared and a confirmation message is shown
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-805AD5?style=for-the-badge&logo=google-chrome)](https://food-order-app-seven-rosy.vercel.app/)
-
 ---
 
 ## Features
