@@ -34,8 +34,8 @@ A React practice project (Udemy “React Course”) to browse meals, add/remove 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Run the backend](#run-the-backend-server)
-  - [Run the frontend](#run-the-frontend)
+  - [Run the backend](#Run-Your-Backend-Server)
+  - [Run the frontend](#Run-The-Front-End)
 - [Project Structure](#project-structure)
 - [License](#license)
 
@@ -92,21 +92,21 @@ This app simulates a simple restaurant ordering flow:
     npm install
    ```
 
-### Run The Backend
+### Run Your Backend Server
 
-4. **Run the Backend Server**
+4. **Settign Up The Backend Server**
 
-    4.1
+    4.1 Navigate to the backend directory
     ```sh
      cd backend
     ```
 
-    4.2
+    4.2 Install depencies
     ```sh
      npm install
     ```
 
-    4.3
+    4.3 Run the server
     ```sh
      npm start 
     ```
