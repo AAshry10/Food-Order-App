@@ -171,6 +171,8 @@ This app simulates a simple restaurant ordering flow:
     ├── package-lock.json
     ├── package.json
     └── vite.config.js
+```
+
 ---
 
 ## 🧾License
