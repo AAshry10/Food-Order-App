@@ -97,7 +97,7 @@ This app simulates a simple restaurant ordering flow:
 
 4. **Settign Up The Backend Server**
 
-    4.1 Navigate to the backend directory
+    4.1 Navigate to the backend directory in a new terminal
     ```sh
      cd backend
     ```
@@ -115,12 +115,8 @@ This app simulates a simple restaurant ordering flow:
 
 ### Run The Front-End
 
-5. Go Back to the main directory
-
-    ```sh
-     cd Food-Order-App
-    ```
-    
+5. Go Back to the main directory terminal ---> Food-Order-App
+  
 6. Run the project with:
 
    ```sh
