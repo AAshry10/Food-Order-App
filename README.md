@@ -133,33 +133,14 @@ This app simulates a simple restaurant ordering flow:
 ## 🏗️Project Structure
 
 ```sh
-└── Quiz App/
-    ├── public/
-    │   └── quiz-logo.png
-    ├── src/
-    │   ├── assets/
-    │   │   ├── quiz-complete.png
-    │   │   └── quiz-logo.png
-    │   ├── componenets/
-    │   │   ├── Answers.jsx
-    │   │   ├── Header.jsx
-    │   │   ├── Question.jsx
-    │   │   ├── QuestionTimer.jsx
-    │   │   ├── Quiz.jsx
-    │   │   └── QuizComplete.jsx
-    │   ├── App.jsx└── Food Order App/
+└── Food Order App/
     ├── backend/
     │   ├── data/
     │   │   ├── available-meals.json
     │   │   └── orders.json
-    │   ├── public/
-    │   │   └── images/
-    │   │
     │   ├── app.js
     │   ├── package-lock.json
     │   └── package.json
-    ├── public/
-    │   └── logo.jpg
     ├── src/
     │   ├── assets/
     │   │   └── logo.jpg
@@ -190,14 +171,6 @@ This app simulates a simple restaurant ordering flow:
     ├── package-lock.json
     ├── package.json
     └── vite.config.js
-    │   ├── index.css
-    │   ├── main.jsx
-    │   └── questions.js
-    ├── index.html
-    ├── package.json
-    └── vite.config.js
-```
-
 ---
 
 ## 🧾License
