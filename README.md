@@ -78,7 +78,7 @@ This app simulates a simple restaurant ordering flow:
 1. **Clone the repository:**
 
     ```sh
-     git clone https://github.com/AAshry10/Quiz-App.git
+     git clone https://github.com/AAshry10/Food-Order-App.git
     ```
 
 2. **Navigate to the project Backend directory (If not already navigated):**
