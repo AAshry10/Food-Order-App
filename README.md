@@ -147,7 +147,49 @@ This app simulates a simple restaurant ordering flow:
     │   │   ├── QuestionTimer.jsx
     │   │   ├── Quiz.jsx
     │   │   └── QuizComplete.jsx
+    │   ├── App.jsx└── Food Order App/
+    ├── backend/
+    │   ├── data/
+    │   │   ├── available-meals.json
+    │   │   └── orders.json
+    │   ├── public/
+    │   │   └── images/
+    │   │
+    │   ├── app.js
+    │   ├── package-lock.json
+    │   └── package.json
+    ├── public/
+    │   └── logo.jpg
+    ├── src/
+    │   ├── assets/
+    │   │   └── logo.jpg
+    │   ├── components/
+    │   │   ├── hooks/
+    │   │   │   └── useHttp.js
+    │   │   ├── UI/
+    │   │   │   ├── Button.jsx
+    │   │   │   ├── Error.jsx
+    │   │   │   ├── Input.jsx
+    │   │   │   └── Modal.jsx
+    │   │   ├── Cart.jsx
+    │   │   ├── CartItem.jsx
+    │   │   ├── Checkout.jsx
+    │   │   ├── Header.jsx
+    │   │   ├── MealItem.jsx
+    │   │   └── Meals.jsx
+    │   ├── Store/
+    │   │   ├── CartContext.jsx
+    │   │   └── UserProgressContext.jsx
+    │   ├── util/
+    │   │   └── formatting.js
     │   ├── App.jsx
+    │   ├── index.css
+    │   └── main.jsx
+    ├── .gitignore
+    ├── index.html
+    ├── package-lock.json
+    ├── package.json
+    └── vite.config.js
     │   ├── index.css
     │   ├── main.jsx
     │   └── questions.js
